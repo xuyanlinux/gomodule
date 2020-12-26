@@ -12,4 +12,5 @@ func Name() {
 }
 func GetAge()  {
 	fmt.Println(age)
+	fmt.Println("how old are u?")
 }
